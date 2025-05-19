@@ -5,7 +5,7 @@ body {
   overflow: hidden;
 }
 span{
-  background: url("heart.png");
+  background: url("../heart.png");
   width: 100px;
   height: 100px;
   position: absolute;
